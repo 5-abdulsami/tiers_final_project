@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756867061198",
+    "project_id": "tiers-22911",
+    "storage_bucket": "tiers-22911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756867061198:android:3cfb07642ca64fdf09479f",
+        "android_client_info": {
+          "package_name": "com.example.tiers_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAvT_eCUR6IahVMk5N5icSCZMYNOQxeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
